@@ -1,6 +1,6 @@
 #  Introduction
 
-![mindAgent](.\\source\\mindagent.png)
+![mindAgent](./source/mindagent.png)
 
 
 
